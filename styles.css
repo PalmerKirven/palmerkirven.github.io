@@ -3,14 +3,14 @@ body {
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
 }
-assignment {
+.assignment {
     display:flex;
     padding:10px;
     margin:10px;
-    background:rgb(138, 174, 179)
+    background:rgb(138, 174, 179);
 }
 
-assignment img {
+.assignment img {
  width:300px;
  height:300px;
  padding:10px;
